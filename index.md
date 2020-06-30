@@ -10,3 +10,7 @@ My favorite character in Jane Austen's most popular novel "Pride and Prejudice" 
 * very fond of her older sister
 * thoughtful
 * a little bit proud (otherwise, the novel's title would be misplaced...)
+
+About Mr. Darcy, she says at the beginning:
+> I could easily forgive his pride, 
+> if he had not mortified mine.
